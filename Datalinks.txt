@@ -1,0 +1,5 @@
+Data Used:
+
+For SVM- https://www.kaggle.com/datasets/ayanzadeh93/color-classification
+For CNN- https://www.kaggle.com/datasets/prasunroy/natural-images
+For K Means- https://sustainlab-group.github.io/sustainbench/docs/datasets/sdg2/field_delineation.html
